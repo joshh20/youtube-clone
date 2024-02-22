@@ -4,4 +4,4 @@ I learned this project when following along with SuperSimpleDev's [HTML and CSS 
 
 ## Live Demo
 
-Check out the live demo [https://joshhittie.com/van-life/](https://joshhittie.com/van-life/) thanks to GitHub Pages
+Check out the live demo [https://joshhittie.com/youtube-clone/](https://joshhittie.com/youtube-clone/) thanks to GitHub Pages
